@@ -1,0 +1,10 @@
+# Email Guardian Bot - Dependencies
+
+# Core (required)
+# No external dependencies for analyzer
+
+# Telegram Bot (optional but recommended)
+python-telegram-bot>=20.0
+
+# For async support
+asyncio-mqtt>=0.16.0  # optional, for IoT integration
